@@ -12,6 +12,6 @@
 </head>
 <body>
     <h1>Successfully running spring project For Rest API !!! </h1>
-    <a href="${pageContext.request.contextPath}">Go To Hello Page</a>
+    <a href="${pageContext.request.contextPath}/api/students">Go To Hello Page</a>
 </body>
 </html>
